@@ -22,6 +22,8 @@ namespace REading_a_File
         {
             string path;
 
+
+
             openFileDialog1.InitialDirectory = @"C:\";
             openFileDialog1.Title = "Browse Text Files";
             openFileDialog1.DefaultExt = "txt";
