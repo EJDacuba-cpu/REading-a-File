@@ -1,0 +1,12 @@
+asd
+STUDENT REGISTRATION DETAILS
+-----------------------------
+Student No.: 123445
+Name: qwe, qw q
+Program: BS Computer Science
+Gender: Male
+Age: 23
+Birthday: Thursday, 23 October 2025
+Contact No.: 09090909
+-----------------------------
+
