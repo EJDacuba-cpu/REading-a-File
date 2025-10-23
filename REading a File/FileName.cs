@@ -64,5 +64,10 @@ namespace REading_a_File
         {
 
         }
+
+        private void FileName_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

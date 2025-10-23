@@ -155,6 +155,11 @@ namespace REading_a_File
             frmStudentRecord.Show();
             this.Hide();
         }
+
+        private void FrmRegistration_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 

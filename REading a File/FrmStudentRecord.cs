@@ -57,5 +57,10 @@ namespace REading_a_File
 
             MessageBox.Show("Successfully Uploaded!", "Upload", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void FrmStudentRecord_Load(object sender, EventArgs e)
+        {
+            ,
+        }
     }
 }

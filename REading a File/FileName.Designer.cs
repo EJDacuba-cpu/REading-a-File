@@ -86,6 +86,7 @@
             this.Controls.Add(this.txtInput);
             this.Name = "FileName";
             this.Text = "FileName";
+            this.Load += new System.EventHandler(this.FileName_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
