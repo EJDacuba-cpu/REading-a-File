@@ -62,5 +62,10 @@ namespace REading_a_File
             fileName.Show();
             this.Hide();
         }
+
+        private void FrmOpenFile_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

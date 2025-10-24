@@ -59,8 +59,8 @@ namespace REading_a_File
         }
 
         private void FrmStudentRecord_Load(object sender, EventArgs e)
-        {
-            ,
+        { }
+            
         }
     }
-}
+
