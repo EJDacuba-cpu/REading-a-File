@@ -39,8 +39,9 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.Red;
-            this.button2.Font = new System.Drawing.Font("Yu Gothic UI", 15.75F, System.Drawing.FontStyle.Bold);
-            this.button2.Location = new System.Drawing.Point(409, 382);
+            this.button2.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button2.Location = new System.Drawing.Point(86, 267);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(108, 43);
             this.button2.TabIndex = 10;
@@ -51,8 +52,9 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Red;
-            this.button1.Font = new System.Drawing.Font("Yu Gothic UI", 15.75F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(275, 382);
+            this.button1.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button1.Location = new System.Drawing.Point(86, 184);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 43);
             this.button1.TabIndex = 9;
@@ -63,8 +65,9 @@
             // btnOpen
             // 
             this.btnOpen.BackColor = System.Drawing.Color.Red;
-            this.btnOpen.Font = new System.Drawing.Font("Yu Gothic UI", 15.75F, System.Drawing.FontStyle.Bold);
-            this.btnOpen.Location = new System.Drawing.Point(141, 382);
+            this.btnOpen.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOpen.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnOpen.Location = new System.Drawing.Point(86, 113);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(108, 43);
             this.btnOpen.TabIndex = 8;
@@ -76,19 +79,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Yu Gothic UI", 20.25F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(307, 26);
+            this.label1.Font = new System.Drawing.Font("Lucida Bright", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(48, 44);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(180, 37);
+            this.label1.Size = new System.Drawing.Size(198, 31);
             this.label1.TabIndex = 7;
             this.label1.Text = "View Records";
             // 
             // lvShowText
             // 
             this.lvShowText.HideSelection = false;
-            this.lvShowText.Location = new System.Drawing.Point(106, 108);
+            this.lvShowText.Location = new System.Drawing.Point(265, 44);
             this.lvShowText.Name = "lvShowText";
-            this.lvShowText.Size = new System.Drawing.Size(589, 228);
+            this.lvShowText.Size = new System.Drawing.Size(485, 357);
             this.lvShowText.TabIndex = 6;
             this.lvShowText.UseCompatibleStateImageBehavior = false;
             this.lvShowText.View = System.Windows.Forms.View.List;

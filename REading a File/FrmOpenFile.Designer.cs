@@ -37,10 +37,11 @@
             // btnOpen
             // 
             this.btnOpen.BackColor = System.Drawing.Color.Red;
-            this.btnOpen.Font = new System.Drawing.Font("Yu Gothic UI", 15.75F, System.Drawing.FontStyle.Bold);
-            this.btnOpen.Location = new System.Drawing.Point(335, 338);
+            this.btnOpen.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOpen.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnOpen.Location = new System.Drawing.Point(314, 321);
             this.btnOpen.Name = "btnOpen";
-            this.btnOpen.Size = new System.Drawing.Size(108, 43);
+            this.btnOpen.Size = new System.Drawing.Size(159, 34);
             this.btnOpen.TabIndex = 4;
             this.btnOpen.Text = "Open";
             this.btnOpen.UseVisualStyleBackColor = false;
@@ -49,9 +50,9 @@
             // lvShowText
             // 
             this.lvShowText.HideSelection = false;
-            this.lvShowText.Location = new System.Drawing.Point(119, 69);
+            this.lvShowText.Location = new System.Drawing.Point(105, 64);
             this.lvShowText.Name = "lvShowText";
-            this.lvShowText.Size = new System.Drawing.Size(518, 229);
+            this.lvShowText.Size = new System.Drawing.Size(587, 226);
             this.lvShowText.TabIndex = 3;
             this.lvShowText.UseCompatibleStateImageBehavior = false;
             this.lvShowText.View = System.Windows.Forms.View.List;
